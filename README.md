@@ -1,5 +1,4 @@
 ### Hi there 👋
-<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=axelvanherle&theme=light&background=fffff)](https://git.io/streak-stats)
 <br>
 ![There should be a cat here :(](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
