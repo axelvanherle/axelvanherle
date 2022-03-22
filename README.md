@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![There should be a cat here :(](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=axelvanherle&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **axelvanherle/axelvanherle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
