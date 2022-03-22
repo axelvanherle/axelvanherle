@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![There should be a cat here :(](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <!--
 **axelvanherle/axelvanherle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
