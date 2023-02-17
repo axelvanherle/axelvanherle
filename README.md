@@ -2,7 +2,3 @@
 
 ### Studying electronics ICT.
 Have a look at my [website](https://axelvanherle.github.io/)
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="100"/>
-</div>
