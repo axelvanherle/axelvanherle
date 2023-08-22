@@ -1,3 +1,3 @@
 ## Axel Vanherle
 
-Check out my [blog](https://axelvanherle.xyz/).
+Check out my [website](https://axelvanherle.xyz/).
